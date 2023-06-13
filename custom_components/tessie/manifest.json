@@ -1,10 +1,10 @@
 {
     "domain": "tessie",
     "name": "Tessie",
-    "codeowners": ["@cbzink"],
+    "codeowners": ["@mjheijster"],
     "config_flow": true,
-    "documentation": "https://github.com/cbzink/tessie-ha",
+    "documentation": "https://github.com/mjheijster/tessie-ha",
     "iot_class": "cloud_polling",
-    "requirements": ["git+https://github.com/cbzink/tessiepy.git@master#tessiepy==0.0.2"],
+    "requirements": ["git+https://github.com/mjheijster/tessiepy.git@master#tessiepy==0.0.2"],
     "version": "0.0.2"
 }
